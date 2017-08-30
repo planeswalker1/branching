@@ -1,16 +1,16 @@
 body {
   background-color: salmon;
+  font-family: sans-serif;
+  text-align: center;
 }
 
 h1 {
   color: darkred;
-  text-align: center;
 }
 
 h2 {
   color: red;
   font-style: italic;
-  text-align: center;
 }
 
 p {
